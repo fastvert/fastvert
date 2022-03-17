@@ -2,7 +2,7 @@
 - 👀 I’m interested in Headless wordpress
 - 🌱 I’m currently learning Web 3
 - - 💞️ I’m looking to collaborate on Headless Wordpess
-- 📫 How to reach me info@fastvert.com
+- 📫 How to reach me info@fastvert.com | https://fastvert.com/
 
 <!---
 fastvert/fastvert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
